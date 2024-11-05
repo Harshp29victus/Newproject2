@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+}
+.main{
+    font: gilroy;
+    width: 100%;
+    background-image: linear-gradient(to right, #542640,#1a1a1a ,#644320);
+}
+.diffrent{
+    background-image: linear-gradient(#1a1a1a,#542640);
+}
